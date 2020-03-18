@@ -23,7 +23,7 @@ covid19_gapminder.csv
 1. after install, Choose from the menu bar "New Chart" > "Your Data" > "CSV files..."
 1. at the dialog
   1. Step 1: Pick a chart as you like. (Bubbles, Lines, Rankings)
-  1. Step 2: Chose "**Teme goes right**"
+  1. Step 2: Chose "**Time goes right**"
   1. Step 3: Pick the converted csv from your local drive.
   1. Optional: Time values look like this: **day**
 
