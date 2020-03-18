@@ -35,3 +35,4 @@ covid19_gapminder.csv
 [Ranking](http://files.masakiyamabe.com/covid19/gapminder/ranking/)
 
 
+![cover](cover.png)
