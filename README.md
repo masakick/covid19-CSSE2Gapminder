@@ -28,3 +28,10 @@ covid19_gapminder.csv
   1. Optional: Time values look like this: **day**
 
 
+## Live demo exported from Gapminder Tools Offline
+
+[Line Chart](http://files.masakiyamabe.com/covid19/gapminder/line/) | 
+[Bubble Chart](http://files.masakiyamabe.com/covid19/gapminder/bubble/) | 
+[Ranking](http://files.masakiyamabe.com/covid19/gapminder/ranking/)
+
+
