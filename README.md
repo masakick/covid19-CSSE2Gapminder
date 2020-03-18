@@ -1,5 +1,5 @@
-# covid19-CSEE2Gapminder
-This python codes convert the COVID-19 data from CSEE repository to Gapminder format.
+# covid19-CSSE2Gapminder
+This python codes convert the COVID-19 data from CSSE repository to Gapminder format.
 
 **Data Source Repository:**
 
