@@ -34,5 +34,3 @@ covid19_gapminder.csv
 [Bubble Chart](http://files.masakiyamabe.com/covid19/gapminder/bubble/) | 
 [Ranking](http://files.masakiyamabe.com/covid19/gapminder/ranking/)
 
-
-![cover](cover.png)
